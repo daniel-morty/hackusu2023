@@ -4,13 +4,13 @@
 #include <FastLED.h>
 
 #define NUM_LEDS 8
-#define DATA_PIN 33
+#define DATA_PIN 15
 #define COLOR_ORDER GRBW
 
 
 #define FRONT_LEFT 0
 #define FRONT_LEFT_MID 1
-#define BACK_RIGHT_MID 2
+#define FRONT_RIGHT_MID 2
 #define FRONT_RIGHT 3
 
 #define BACK_LEFT 4

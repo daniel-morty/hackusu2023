@@ -46,7 +46,7 @@ void controlMotors(int16_t x, int16_t y) {
 		leds[FRONT_LEFT_MID] = CRGB::Green;
 
 		leds[FRONT_RIGHT] = CRGB::FloralWhite;
-		leds[BACK_RIGHT_MID] = CRGB::Green;
+		leds[FRONT_RIGHT_MID] = CRGB::Green;
 
 		leds[BACK_LEFT] = CRGB::Red;
 		leds[BACK_LEFT_MID] = CRGB::Green;
@@ -61,7 +61,7 @@ void controlMotors(int16_t x, int16_t y) {
 		leds[FRONT_LEFT_MID] = CRGB::Green;
 
 		leds[FRONT_RIGHT] = CRGB::FloralWhite;
-		leds[BACK_RIGHT_MID] = CRGB::Green;
+		leds[FRONT_RIGHT_MID] = CRGB::Green;
 
 		leds[BACK_LEFT] = CRGB::White;
 		leds[BACK_LEFT_MID] = CRGB::Green;
@@ -76,7 +76,7 @@ void controlMotors(int16_t x, int16_t y) {
 		leds[FRONT_LEFT_MID] = CRGB::Green;
 
 		leds[FRONT_RIGHT] = CRGB::Yellow;
-		leds[BACK_RIGHT_MID] = CRGB::Green;
+		leds[FRONT_RIGHT_MID] = CRGB::Green;
 
 		leds[BACK_LEFT] = CRGB::Red;
 		leds[BACK_LEFT_MID] = CRGB::Green;
@@ -91,7 +91,7 @@ void controlMotors(int16_t x, int16_t y) {
 		leds[FRONT_LEFT_MID] = CRGB::Green;
 
 		leds[FRONT_RIGHT] = CRGB::FloralWhite;
-		leds[BACK_RIGHT_MID] = CRGB::Green;
+		leds[FRONT_RIGHT_MID] = CRGB::Green;
 
 		leds[BACK_LEFT] = CRGB::Red;
 		leds[BACK_LEFT_MID] = CRGB::Green;
