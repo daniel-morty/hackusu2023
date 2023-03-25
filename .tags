@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+MAX_SPEED_FACTOR	motor.cpp	/^const float MAX_SPEED_FACTOR = 0.7; \/\/ Adjust this value as needed (e.g., 0.85 for 85% of maximum speed)$/;"	v
+MOTOR1_PIN1	motor.h	2;"	d
+MOTOR1_PIN2	motor.h	3;"	d
+MOTOR1_PIN3	motor.h	4;"	d
+MOTOR1_PIN4	motor.h	5;"	d
+MOTOR2_PIN1	motor.h	8;"	d
+MOTOR2_PIN2	motor.h	9;"	d
+MOTOR2_PIN3	motor.h	10;"	d
+MOTOR2_PIN4	motor.h	11;"	d
+PROGMEM	webpage.h	/^const char indexHtml[] PROGMEM = R"rawliteral($/;"	v
+autopilotButton	webpage.h	/^	const autopilotButton = document.getElementById("autopilotButton");$/;"	v
+autopilotEnabled	webpage.h	/^	let autopilotEnabled = false;$/;"	v
+controlMotors	motor.cpp	/^void controlMotors(int16_t x, int16_t y) {$/;"	f
+do_autopilot	motor.cpp	/^bool do_autopilot;$/;"	v
+handleTouchEnd	webpage.h	/^    function handleTouchEnd(event) {$/;"	f
+handleTouchMove	webpage.h	/^    function handleTouchMove(event) {$/;"	f
+handleTouchStart	webpage.h	/^    function handleTouchStart(event) {$/;"	f
+motor1Task	motor.cpp	/^void motor1Task(void *parameter) {$/;"	f
+motor2Task	motor.cpp	/^void motor2Task(void *parameter) {$/;"	f
+moveJoystick	webpage.h	/^    function moveJoystick(x, y) {$/;"	f
+onWsEvent	web_server.cpp	/^void onWsEvent(AsyncWebSocket *server, AsyncWebSocketClient *client, AwsEventType type, void *arg, uint8_t *data, size_t len) {$/;"	f
+resetJoystick	webpage.h	/^    function resetJoystick() {$/;"	f
+sendJoystickData	webpage.h	/^    function sendJoystickData(x, y) {$/;"	f
+setupMotors	motor.cpp	/^void setupMotors() {$/;"	f
+setupWebServer	web_server.cpp	/^void setupWebServer() {$/;"	f
+toggle_autopilot	motor.cpp	/^void toggle_autopilot(){$/;"	f
+wsProcess	web_server.cpp	/^void wsProcess()$/;"	f
